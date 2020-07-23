@@ -152,7 +152,7 @@ button:hover {
   text-transform: uppercase;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent);
-  background: url(../images/chahua2017.png) repeat 0px 0px;
+  background: url(https://cdn.jsdelivr.net/gh/Subeting/Liuns-error-sites@master/1000/images/chahua2017.png) repeat 0px 0px;
   background-size: contain;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
